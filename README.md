@@ -27,7 +27,7 @@
 ```bash
 #!/bin/bash
 # ============================================
-#   Sunil Kumar S — Cloud & Linux Admin
+#   HARISH KUMAR — Cloud & Linux Admin
 # ============================================
 
 NAME="HARISH KUMAR S"
