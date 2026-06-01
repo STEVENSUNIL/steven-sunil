@@ -231,7 +231,7 @@ echo "Welcome to my GitHub! $(motto)"
     <img src="https://img.shields.io/badge/Gmail-sunilkumar231355%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/sunilkumars">
+  <a href="https://www.linkedin.com/in/sunil-kumar-s-77b5062ba">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
