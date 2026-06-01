@@ -30,7 +30,7 @@
 #   Sunil Kumar S — Cloud & Linux Admin
 # ============================================
 
-NAME="Sunil Kumar S"
+NAME="HARISH KUMAR S"
 LOCATION="Bengaluru, India 🇮🇳"
 ROLE="AWS Cloud & DevOps | Linux Administrator"
 DEGREE="BCA - Bachelor of Computer Applications"
