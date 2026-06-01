@@ -7,9 +7,9 @@
     <img src="https://komarev.com/ghpvc/?username=sunilkumar231355&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
   </a>
   <a href="mailto:sunilkumar231355@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-sunilkumar231355-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-sunilkumar231355@GMAIL.COM-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/sunilkumars">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/sunil-kumar-s-77b5062ba">
     <img src="https://img.shields.io/badge/LinkedIn-Sunil%20Kumar%20S-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
