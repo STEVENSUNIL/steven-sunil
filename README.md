@@ -27,10 +27,10 @@
 ```bash
 #!/bin/bash
 # ============================================
-#   HARISH KUMAR — Cloud & Linux Admin
+#   SUNIL KUMAR S — Cloud & Linux Admin
 # ============================================
 
-NAME="HARISH KUMAR S"
+NAME="SUNIL KUMAR S"
 LOCATION="Bengaluru, India 🇮🇳"
 ROLE="AWS Cloud & DevOps | Linux Administrator"
 DEGREE="BCA - Bachelor of Computer Applications"
